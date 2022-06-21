@@ -110,6 +110,11 @@
             "description": "ID of a Channel (user Notification)",
             "value": "",
             "required": true
+        },
+        "PICS": {
+          "description":"graph",
+          "value":"",
+          "required": true
         }
     },
     "addons": [],
